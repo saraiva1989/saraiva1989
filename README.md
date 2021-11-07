@@ -1,5 +1,4 @@
-# Olá Mundo 👋
-![visitas](https://visitor-badge.laobi.icu/badge?page_id=saraiva1989)
+# Olá 👋
 ### 👨🏻‍💻 Sobre mim
 Olá, me chamo Daniel Saraiva, mas todos me chamam de Saraiva. Sou programador full-stack e aqui você verá um pequeno resumo sobre mim.
 
