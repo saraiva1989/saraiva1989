@@ -6,7 +6,7 @@ Trabalho a alguns anos na área de desenvolvimento, onde a cada dia que passa pr
 
 - 💼 Eu atualmente trabalho na Ahreas.
 - 🎓 No momento estudando aplicações no azure e uso do azure table storage.
-- 👯 Estou procurando colaborar em proejtos de causa humanitária. Mas não estou fechado apenas a isso, caso tenha um projeto open source que precisa de alguma das minhas qualificações, não deixe de me procurar.
+- 👯 Estou procurando colaborar em proejtos de causa humanitária. 
 - ❤ Além de programar adoro games e filmes.
 
 ## GitHub Status
@@ -25,10 +25,10 @@ Trabalho a alguns anos na área de desenvolvimento, onde a cada dia que passa pr
 ## 🤝🏻 Conecte-se comigo
 
 <p align="">
-<a href="https://saraiva.netlify.app"><img alt="Website" src="https://img.shields.io/badge/Website-https://saraiva1989.com-purple?style=flat-square&logo=google-chrome"></a>
+<a href="https://saraiva.netlify.app"><img alt="Website" src="https://img.shields.io/badge/Website-https://saraiva.netlify.app-purple?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/saraiva1989/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-saraiva1989-purple?style=flat-square&logo=linkedin"></a>
 <a href="mailto:danniel.saraiva@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-danniel.saraiva@gmail.com-purple?style=flat-square&logo=Gmail"></a>
-  <a href="https://tabernadosherois.netlify.app"><img alt="blog" src="https://img.shields.io/badge/blog-https://blog.saraiva89.com-purple?style=flat-square&logo=Devpost"></a>
+  <a href="https://tabernadosherois.netlify.app"><img alt="blog" src="https://img.shields.io/badge/blog-https://tabernadosherois.netlify.app-purple?style=flat-square&logo=Devpost"></a>
 </p>
 
 ## Tecnologias frequentes
