@@ -6,19 +6,18 @@ Trabalho a alguns anos na área de desenvolvimento, onde a cada dia que passa pr
 
 - 💼 Eu atualmente trabalho na Ahreas.
 - 🎓 No momento estudando aplicações no azure e uso do azure table storage.
-- 👯 Estou procurando colaborar em proejtos de causa humanitária. 
+- 👯 Estou procurando colaborar em projetos de causa humanitária. 
 - ❤ Além de programar adoro games e filmes.
 
 ## GitHub Status
 
 
 <p align="center">
-<img alt="github status" width="400px" src="https://github-readme-stats.vercel.app/api?username=saraiva1989&theme=radical&show_icons=true&hide_border=false&count_private=false&include_all_commits=true&line_height=24.5">
-<img alt="streak" width="390px" src="http://github-readme-streak-stats.herokuapp.com/?user=saraiva1989&theme=radical&show_icons=true">
+<img alt="github status" width="400px" src="https://saraiva-git-stats.vercel.app/api?username=saraiva1989&theme=radical&show_icons=true&hide_border=false&count_private=false&include_all_commits=false&line_height=24.5&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile">
+<img alt="Top Langs" src="https://saraiva-git-stats.vercel.app/api/top-langs/?username=saraiva1989&layout=compact&theme=radical&langs_count=10">
 </p>
 
 <p align="center">
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraiva1989&layout=compact&theme=radical&langs_count=10">
 </p>
 
 
