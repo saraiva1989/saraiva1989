@@ -4,7 +4,6 @@ Olá, me chamo Daniel Saraiva, mas todos me chamam de Saraiva. Sou programador f
 
 Trabalho a alguns anos na área de desenvolvimento, onde a cada dia que passa procuro melhorar e contribuir com a comunidade.
 
-- 💼 Eu atualmente trabalho na Ahreas.
 - 🎓 No momento estudando aplicações no azure e uso do azure table storage.
 - 👯 Estou procurando colaborar em projetos de causa humanitária. 
 - ❤ Além de programar adoro games e filmes.
